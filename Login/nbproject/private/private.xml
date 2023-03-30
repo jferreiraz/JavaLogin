@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/LTPW/XML/Login/web/banco_login.sql</file>
+            <file>file:/E:/LTPW/XML/Login/src/java/br/com/login/CadastroLoginServlet.java</file>
+            <file>file:/E:/LTPW/XML/Login/web/login.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/web/cadastrado.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/src/java/br/com/login/AlterarLoginServlet.java</file>
+            <file>file:/E:/LTPW/XML/Login/web/deletar.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/web/WEB-INF/web.xml</file>
+            <file>file:/E:/LTPW/XML/Login/src/java/br/com/login/Usuario.java</file>
+            <file>file:/E:/LTPW/XML/Login/web/index.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/web/alterar.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/src/java/br/com/login/DeletarLoginServlet.java</file>
+            <file>file:/E:/LTPW/XML/Login/web/ref/styleLogado.css</file>
+            <file>file:/E:/LTPW/XML/Login/web/logado.jsp</file>
+            <file>file:/E:/LTPW/XML/Login/web/ref/style.css</file>
+            <file>file:/E:/LTPW/XML/Login/src/java/br/com/login/UsuarioDAO.java</file>
+            <file>file:/E:/LTPW/XML/Login/web/remover.jsp</file>
+        </group>
+    </open-files>
+</project-private>
